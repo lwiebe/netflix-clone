@@ -38,3 +38,5 @@ const App = () => {
 }
 
 export default App
+
+// https://console.firebase.google.com/u/0/project/netflix-clone-7e587/firestore/databases/-default-/data/~2Fuser~2FN4SYVG9IJahb0YGQfoI9
